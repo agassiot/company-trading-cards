@@ -25,4 +25,8 @@
             Github Repository https://github.com/agassiot/company-trading-cards
             Live Link n/a
             
-            <iframe src="https://drive.google.com/file/d/1zPrl2xFrf-2BS8354NBKm9MhYUTFOV7x/preview" width="640" height="480"></iframe>
+            
+
+
+https://user-images.githubusercontent.com/61921580/199042161-10baa062-0fe1-486b-bceb-72ab176e7fa2.mp4
+
